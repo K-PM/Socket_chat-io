@@ -1,0 +1,16 @@
+.parteazul{
+    width: 100%;
+    background-color: rgb(2, 2, 81);
+    display:flex;
+    justify-content: center;
+    
+}
+.titulo{
+    color: rgb(196, 195, 194);
+    margin-top: 2.7%;
+    font-size: 40px;
+}
+.IChat{
+    width: 8%;
+    
+}

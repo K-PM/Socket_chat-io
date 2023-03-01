@@ -1,0 +1,23 @@
+.vistaGeneral{
+    width: 100%;
+    background-color: rgb(247, 247, 247);
+    
+}
+p{
+    margin-left: 10%;
+}
+.navegar{
+    margin-top: 10px;
+    width: 45%;
+    margin-left: 35%;
+}
+.navegar li{
+    display: inline;
+    margin-left:  15%;
+    list-style:none;
+
+}
+.navegar li a{
+    text-decoration: none;
+    color:rgb(3, 3, 3); 
+}
